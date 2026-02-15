@@ -1,4 +1,30 @@
 <p align="center">
+<img src="screenshots/01_dashboard.jpg" width="90%">
+</p>
+
+<h1 align="center">📚 Coaching Manager – Offline-First SaaS App</h1>
+
+<p align="center">
+<b>Production-style Coaching Institute Management System</b><br>
+Built with Flutter + Django REST + PostgreSQL<br>
+Offline-first architecture with real-world SaaS design.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Flutter-Mobile_App-blue?style=for-the-badge&logo=flutter">
+<img src="https://img.shields.io/badge/Django-REST_API-green?style=for-the-badge&logo=django">
+<img src="https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge&logo=postgresql">
+<img src="https://img.shields.io/badge/Offline--First-Architecture-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Status-Showcase_Only-lightgrey?style=for-the-badge">
+</p>
+
+<p align="center">
+⚠️ Public showcase repository — full production source code is private.
+</p>
+
+---
+
+<p align="center">
 <img src="screenshots/01_dashboard.jpg" width="85%">
 </p>
 
