@@ -1,3 +1,7 @@
+<p align="center">
+<img src="screenshots/01_dashboard.jpg" width="85%">
+</p>
+
 <h1 align="center">📚 Coaching Manager – Offline-First SaaS App</h1>
 
 <p align="center">
